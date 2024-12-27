@@ -1,5 +1,5 @@
-Explore the usage of Python and MATLAB in the Probability theory. <br>
-
+### Explore the usage of Python and MATLAB in the Probability theory. <br>
+Probability and Linear Algebra are foundational concepts to know for applications in machine learning. In this repo, you can delve into various visualizations of probability distributions. Find a repo too for Linear Algebra [here](https://github.com/StormGear/LinearAlgebra.git) <br/>
 <code>MATLABKernel</code> is a Jupyter kernel for MATLAB. It also contains a MATLAB live script<br>
 This is a Jupyter notebook that using _MATLAB_ kernel with Jupyter in the study of Probability theory. Access _MATLAB_ documentation, also view a youtube video on how to use Jupyter with _MATLAB_ kernel: <br>
 
